@@ -1,0 +1,304 @@
+{
+  "@@locale": "en",
+  "myAccount": "My Account",
+  "exams": "Exams",
+  "courses": "Courses",
+  "videos": "Videos",
+  "home": "Home",
+  "userName": "User Name",
+  "online": "Online",
+  "editGroup": "Edit Group",
+  "save": "Save",
+  "contactTeacherWhatsapp": "Contact Teacher via WhatsApp",
+  "contactTeacherFacebook": "Contact Teacher via Facebook",
+  "contactSupport": "Contact Support",
+  "logout": "Logout",
+  "teacherWhatsappMessage": "Hello sir, I have an inquiry.",
+  "supportWhatsappMessage": "Hello, I have an inquiry.",
+  "language": "Language",
+  "changeLanguage": "Change Language",
+  "groupModifiedSuccess": "Group modified successfully ✅",
+  "errorModifyingGroup": "Error modifying group",
+  "pleaseEnterUsernamePassword": "Please enter username and password",
+  "loginSuccess": "Login successful ✅",
+  "invalidLogin": "Invalid login credentials ❌",
+  "welcome": "Welcome",
+  "loginToPlatform": "Login to {appName} platform",
+  "@loginToPlatform": {
+    "placeholders": {
+        "appName": {
+            "type": "String"
+        }
+    }
+  },
+  "username": "Username",
+  "nameNote": "First and Last names must be in Arabic",
+  "reviewErrors": "Review Errors",
+  "gradesHistory": "Grades History",
+  "usernameNote": "Username must be English letters and numbers without spaces",
+  "mobilePhoneNote": "Phone number must be 11 digits starting with 01",
+  "password": "Password",
+  "login": "Login",
+  "dontHaveAccount": "Don't have an account? ",
+  "createAccount": "Create Account",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "companyCode": "Lecturer Code",
+  "confirmPassword": "Confirm Password",
+  "next": "Next",
+  "passwordMinLength": "Password must be at least 8 characters",
+  "fillAllFields": "Please fill all fields",
+  "companyCodeInvalid": "Invalid Lecturer Code",
+  "companyCodeError": "Error verifying lecturer code",
+  "companyCodeMinLength": "Lecturer code must be at least 3 characters",
+  "usernameMinLength": "Username must be at least 3 characters",
+  "passwordMismatch": "Passwords do not match",
+  "usernameAlpha": "Username must contain at least one letter",
+  "errorOccurred": "Error occurred: {error}",
+  "@errorOccurred": {
+    "placeholders": {
+        "error": {
+            "type": "String"
+        }
+    }
+  },
+  "studentPhone": "Student Phone Number",
+  "parentPhone": "Parent Phone Number",
+  "selectGroupOptional": "Select Group (Optional)",
+  "selectAcademicYear": "Select Academic Year",
+  "noLevelsAvailable": "No levels available",
+  "accountCreatedSuccess": "Account created successfully!",
+  "registerError": "Registration error",
+  "enterValidStudentPhone": "Please enter a valid 11-digit student phone number",
+  "enterValidParentPhone": "Please enter a valid 11-digit parent phone number",
+  "selectAcademicYearError": "Please select an academic year",
+  "loadingLevels": "Loading academic levels",
+  "selected": "Selected",
+  "retrievePassword": "Retrieve Password",
+  "registeredPhone": "Registered Phone Number",
+  "retrieve": "Retrieve",
+  "passwordResetLinkSent": "A password reset link will be sent",
+  "loading": "Loading...",
+  "user": "User",
+  "updateRequired": "Update Required",
+  "updateRequiredMessage": "You must update the application to the latest version to use it.",
+  "undefined": "Undefined",
+  "myCourses": "My Courses",
+  "categories": "Categories",
+  "availableCoursesForPurchase": "Available Courses for Purchase",
+  "currentPoints": "Your Current Points",
+  "pointsCount": "{count} Points",
+  "@pointsCount": {
+    "placeholders": {
+        "count": {
+            "type": "int"
+        }
+    }
+  },
+  "examsResults": "Exams Results",
+  "teachers": "Teachers",
+  "noCoursesAvailable": "No courses available currently",
+  "priceWithCurrency": "Price: {price} EGP",
+  "@priceWithCurrency": {
+    "placeholders": {
+        "price": {
+            "type": "Object"
+        }
+    }
+  },
+  "teacherLabel": "Teacher: {name}",
+  "@teacherLabel": {
+    "placeholders": {
+        "name": {
+            "type": "String"
+        }
+    }
+  },
+  "noCoursesPurchased": "You haven't purchased any courses yet",
+  "shortClips": "Short Clips",
+  "selectedLabel": "Selected: {label}",
+  "@selectedLabel": {
+    "placeholders": {
+        "label": {
+            "type": "String"
+        }
+    }
+  },
+  "unknownExam": "Unknown Exam",
+  "currentExams": "Current Exams",
+  "noCurrentExams": "No exams currently",
+  "upcomingExams": "Upcoming Exams",
+  "noUpcomingExams": "No upcoming exams",
+  "pastExams": "Past Exams",
+  "noPastExams": "No past exams",
+  "cannotEnterExamYet": "You cannot enter the exam yet ✅",
+  "noTitle": "No Title",
+  "noSubject": "No Subject",
+  "unknown": "Unknown",
+  "noPurchasedCourses": "No purchased courses currently",
+  "purchasedVideos": "Purchased Videos",
+  "noPurchasedVideos": "No purchased videos currently",
+  "lessons": "Lessons",
+  "files": "Files",
+  "exams": "Exams",
+  "live": "Live",
+  "rank": "Rank",
+  "purchaseFailed": "Purchase failed. Check the code.",
+  "errorOccurred": "An error occurred during the process",
+  "failedToFetchRank": "Failed to fetch rank data",
+  "ongoingExamsLabel": "Ongoing Exams:",
+  "upcomingExamsLabel": "Upcoming Exams:",
+  "endedExamsLabel": "Ended Exams:",
+  "start": "Start",
+  "examEnded": "Exam has already ended",
+  "cannotStartExam": "Cannot start exam currently",
+  "courseContent": "Course Content",
+  "noExamsAvailable": "No exams available currently",
+  "soon": "Soon",
+  "noFilesAvailable": "No files currently",
+  "pdfFiles": "PDF Files",
+  "pdfFile": "PDF File",
+  "mustBuyCourseFirst": "You must buy the course first",
+  "imageGroups": "Image Groups",
+  "imageGroup": "Image Group",
+  "failedToLoadPdf": "Failed to load PDF",
+  "invalidFile": "File is invalid or empty",
+  "student": "Student",
+  "exerciseNotAvailable": "Exercise not available currently",
+  "exercises": "Exercises",
+  "comments": "Comments",
+  "videos": "Videos",
+  "watchVideo": "Watch Video",
+  "exercise": "Exercise",
+  "typeQuestionHint": "Type your question here",
+  "voiceMessage": "Voice Message",
+  "teacherReply": "Teacher's Reply: {reply}",
+  "@teacherReply": {
+    "placeholders": {
+        "reply": {
+            "type": "String"
+        }
+    }
+  },
+  "noAdditionalVideos": "No additional videos currently",
+  "mainVideo": "Main Video",
+  "additionalVideoCount": "Additional Video {count}",
+  "@additionalVideoCount": {
+    "placeholders": {
+        "count": {
+            "type": "int"
+        }
+    }
+  },
+  "noExamsResultsYet": "No exams results yet",
+  "generalExam": "General Exam",
+  "test": "Test",
+  "yourScoreLabel": "Your Score: {score}",
+  "@yourScoreLabel": {
+    "placeholders": {
+        "score": {
+            "type": "Object"
+        }
+    }
+  },
+  "details": "Details",
+  "failedToDisplayAnswers": "Failed to display answers",
+  "examResultTitle": "Exam Result",
+  "yourScoreWithTotal": "Your Score: {score} / {total}",
+  "@yourScoreWithTotal": {
+    "placeholders": {
+        "score": { "type": "Object" },
+        "total": { "type": "Object" }
+    }
+  },
+  "notAnswered": "Not answered",
+  "notAvailable": "Not available",
+  "yourAnswerLabel": "Your Answer:",
+  "correctAnswerLabel": "Correct Answer:",
+  "questionScoreLabel": "Score: {score} / {total}",
+  "@questionScoreLabel": {
+    "placeholders": {
+        "score": { "type": "Object" },
+        "total": { "type": "Object" }
+    }
+  },
+  "failedToFetchServerTime": "Failed to fetch server time",
+  "remainingTimeLabel": "Remaining Time",
+  "timeSpentLabel": "Time Spent",
+  "minutesShort": "m",
+  "noQuestions": "No questions",
+  "questionIndex": "Question {index}/{total}",
+  "@questionIndex": {
+    "placeholders": {
+        "index": { "type": "Object" },
+        "total": { "type": "Object" }
+    }
+  },
+  "failedToLoadImage": "Failed to load image",
+  "trueValue": "True",
+  "falseValue": "False",
+  "enterAnswerHint": "Enter your answer here",
+  "completeAnswerHint": "Complete the answer...",
+  "typeDialogueHint": "Type the dialogue here...",
+  "previous": "Previous",
+  "finish": "Finish",
+  "noRanksAvailable": "No ranks available currently",
+  "yourCurrentPoints": "Your Current Points: {points}",
+  "@yourCurrentPoints": {
+    "placeholders": {
+        "points": { "type": "Object" }
+    }
+  },
+  "teacherCourses": "Courses of {name}",
+  "@teacherCourses": {
+    "placeholders": {
+        "name": { "type": "String" }
+    }
+  },
+  "noCoursesForTeacher": "No courses for this teacher",
+  "liveStreamTitle": "Live Stream",
+  "liveLabel": "LIVE",
+  "commentsLabel": "Comments",
+  "voiceMessage": "Voice Message",
+  "writeCommentHint": "Write your comment...",
+  "voiceUploadSuccess": "Voice comment uploaded successfully",
+  "voiceUploadFailed": "Failed to upload voice file!",
+  "userLabel": "User",
+  "noNumberLabel": "No Number",
+  "whatsappError": "Could not open WhatsApp. Make sure the app is installed.",
+  "whatsappNotSupported": "WhatsApp is not supported on this system.",
+  "technicalSupport": "Technical Support",
+  "supportEmailBody": "Hello, I need help with...",
+  "studentPhone": "Student Phone Number",
+  "parentPhone": "Parent Phone Number",
+  "selectGroupOptional": "Select Group (Optional)",
+  "secondary": "Secondary",
+  "preparatory": "Preparatory",
+  "primary": "Primary",
+  "level1": "Level 1",
+  "level2": "Level 2",
+  "level3": "Level 3",
+  "level4": "Level 4",
+  "level5": "Level 5",
+  "level6": "Level 6",
+  "pointsLabel": "Your Points: {points}",
+  "@pointsLabel": {
+    "placeholders": {
+      "points": { "type": "int" }
+    }
+  },
+  "pointsTitle": "Points: {points}",
+  "@pointsTitle": {
+    "placeholders": {
+      "points": { "type": "int" }
+    }
+  },
+  "accountInfo": "Account Info",
+  "nameLabel": "Name:",
+  "usernameLabel": "Username:",
+  "phoneLabel": "Phone Number:",
+  "undefined": "Undefined",
+  "loadingLevels": "Loading levels",
+  "studentData": "Student Data",
+  "loginData": "Login Data"
+}
