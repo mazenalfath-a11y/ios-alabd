@@ -1,4 +1,28 @@
-# Flutter & Dart
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+*.hprof
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.git/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains configure files for VS Code.
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
@@ -6,20 +30,46 @@
 .pub-cache/
 .pub/
 build/
+**/build/
 
-# Android
-android/
+# Android related
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
 
-# iOS
-ios/
+# iOS/macOS related
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*_DependencyGraph.pem
+**/ios/**/*.pbxproj.lock
+**/ios/**/xcuserdata/
+**/ios/.generated/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/podhelper.rb
+**/ios/.podfile.lock
+**/macos/Flutter/ephemeral/
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Pods/
+**/macos/.symlinks/
 
-# VS Code
-.vscode/
-.idea/
-
-linux/
-web/
-windows/
-macos/
-
-pubspec.lock
+# Windows / Linux related
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
