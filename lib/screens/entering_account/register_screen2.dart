@@ -3,7 +3,7 @@ import 'package:flutter_version/screens/entering_account/pending_verification_sc
 import 'package:flutter_version/utilities/theme_provider.dart';
 import 'package:flutter_version/widgets/elevated_button.dart';
 import 'package:flutter_version/widgets/outlineTextField.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_version/utilities/app_colors.dart';
 import 'package:flutter_version/widgets/step_progress.dart';

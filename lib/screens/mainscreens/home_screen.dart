@@ -14,7 +14,7 @@ import 'package:flutter_version/screens/appearing_screens/course_details_page.da
 import 'package:flutter_version/screens/appearing_screens/reelsPlayerPage.dart';
 import 'package:flutter_version/screens/appearing_screens/search_results_page.dart';
 import 'package:flutter_version/utilities/navigation_animations.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_version/data/app_config.dart';
 import 'package:url_launcher/url_launcher.dart';

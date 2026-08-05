@@ -5,7 +5,7 @@ import 'package:flutter_version/screens/appearing_screens/exampage_insides/exam_
 import 'package:flutter_version/utilities/theme_provider.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_version/utilities/app_colors.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../l10n/app_localizations.dart';

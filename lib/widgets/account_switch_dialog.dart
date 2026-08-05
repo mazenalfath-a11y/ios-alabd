@@ -7,7 +7,7 @@ import 'package:flutter_version/data/api_service.dart';
 import 'package:flutter_version/screens/mainscreens/main_screen.dart';
 import 'package:flutter_version/screens/entering_account/login_screen.dart';
 import 'package:flutter_version/utilities/theme_provider.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_version/utilities/device_utils.dart';
 import 'package:flutter_version/data/offline_data_service.dart';

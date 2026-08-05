@@ -8,7 +8,7 @@ import 'package:flutter_version/utilities/app_colors.dart';
 import 'package:flutter_version/data/api_service.dart';
 import 'package:flutter_version/utilities/image_viewer_page.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:provider/provider.dart';
 import 'live_screen_insides/live_screen.dart';
 import 'video_watch_page.dart';

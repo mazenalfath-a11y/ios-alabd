@@ -13,7 +13,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:http/http.dart' as http;
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'exampage_insides/exam_result_page.dart';
 import 'package:flutter_version/screens/appearing_screens/video_insides/youtube_video_player.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';

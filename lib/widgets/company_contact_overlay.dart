@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:flutter_version/providers/company_settings_provider.dart';
 import 'package:flutter_version/models/company_settings_model.dart';
 import 'package:flutter_version/utilities/theme_provider.dart';

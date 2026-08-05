@@ -13,7 +13,7 @@ import 'package:flutter_version/widgets/elevated_button.dart';
 import 'package:flutter_version/widgets/outlineTextField.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:provider/provider.dart';
 import 'forget_password_screen.dart';
 import 'package:flutter_version/data/app_config.dart';

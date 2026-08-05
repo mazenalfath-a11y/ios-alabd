@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_version/utilities/app_colors.dart';
 import 'package:flutter_version/utilities/theme_provider.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 
 /// This page used to host per-course chat directly. That has moved to a
 /// "الشات" tab inside CourseDetailsPage. This page is now reserved for

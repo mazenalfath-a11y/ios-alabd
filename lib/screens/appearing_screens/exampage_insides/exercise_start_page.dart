@@ -4,7 +4,7 @@ import 'package:flutter_version/data/api_service.dart';
 import 'package:flutter_version/utilities/app_colors.dart';
 import 'package:flutter_version/utilities/theme_provider.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:provider/provider.dart';
 import 'exam_result_page.dart';
 import '../../../l10n/app_localizations.dart';
