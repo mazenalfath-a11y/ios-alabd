@@ -19,10 +19,20 @@ import 'package:flutter_version/utilities/locale_provider.dart';
 
 import 'package:firebase_core/firebase_core.dart';
 
+import 'package:screen_protector/screen_protector.dart';
+
 final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  // Prevent screenshots and screen recording globally (Android & iOS)
+  try {
+    await ScreenProtector.preventScreenshotOn();
+    await ScreenProtector.protectDataLeakageWithColor(Colors.black);
+  } catch (e) {
+    debugPrint("ScreenProtector initialization error: $e");
+  }
 
   // debugPaintSizeEnabled = true;
 
